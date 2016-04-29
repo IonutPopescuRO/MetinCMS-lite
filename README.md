@@ -15,4 +15,4 @@ Player rankings
 Staff list
 ```
 
-If you want others versions of Metin2 CMS, [click here](http://getcomposer.org/).
+If you want others versions of Metin2 CMS, [click here](http://metin2cms.cf/).
